@@ -13,6 +13,9 @@ export EDITOR="nvim"
 # PATH
 # export PATH=$PATH:/
 
+# History
 HISTFILE=~/.history
 HISTSIZE=10000
 SAVEHIST=50000
+
+
