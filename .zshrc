@@ -18,4 +18,6 @@ HISTFILE=~/.history
 HISTSIZE=10000
 SAVEHIST=50000
 
+# Alias 
+alias ll='ls -la'
 
