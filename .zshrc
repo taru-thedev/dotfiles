@@ -20,4 +20,7 @@ SAVEHIST=50000
 
 # Alias 
 alias ll='ls -la'
+alias dot='cd ~/dotfiles/'
+alias conf='cd ~/.config/'
+
 
