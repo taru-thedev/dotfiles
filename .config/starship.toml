@@ -36,3 +36,6 @@ truncation_length = 3
 truncation_symbol = "../"
 read_only = " 󰌾"
 
+[directory.substitutions]
+"~" = "󱂵 Home"
+"dotfiles" = "󱁿  dotfiles"
