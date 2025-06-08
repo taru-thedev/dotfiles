@@ -15,7 +15,7 @@ add_newline = false
 
 # My custom font
 format = '''
-[ ╭ ](bold white)$directory $git_branch $git_status $fill $right_promt
+[ ╭ ](bold white)$username $directory $git_branch $git_status $fill $right_promt
 [ ╰ ](bold white)
 '''
 
@@ -24,8 +24,14 @@ right_format = "$os at $time on $shell"
 # Characters Configurations
 # --------------------------------------------------------
 
+[username]
+format = " [$user]($style)"
+disabled = false
+show_always = true
+aliases = { "tarunbhandari" = "taruu" }
+
 [directory]
-format = " at [   $path]($style)"
+format = "at [  $path]($style)"
 truncation_length = 3
 truncation_symbol = "../"
 read_only = " 󰌾"
