@@ -2,3 +2,11 @@
 #  --------------------------- Startship Prompt --------------------------------------- 
 # -------------------------------------------------------------------------------------
 
+"$schema" = 'https://starship.rs/config-schema.json'
+
+# Insert new line 
+add_newline = true
+
+[package]
+disabled = true
+
