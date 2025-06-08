@@ -83,5 +83,6 @@ disabled = false
 [time]
 format = "at [$time](style)"
 utc_time_offset = 'local'
+time_format = "%H:%M %P"
 disabled = false
 
