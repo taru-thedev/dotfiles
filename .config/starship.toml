@@ -86,3 +86,8 @@ utc_time_offset = 'local'
 time_format = "%H:%M %P"
 disabled = false
 
+[shell]
+bash_indicator = "BASH"
+zsh_indicator = "ZSH"
+format = "in [$indicator]($style)"
+disabled = false
