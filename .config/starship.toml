@@ -5,11 +5,23 @@
 "$schema" = 'https://starship.rs/config-schema.json'
 
 # Insert new line 
-add_newline = true
+add_newline = false
+
+# Using Nerd Font symbols with some curved arrow tools
+# https://emojicombos.com/curved-arrow
+# 
+#  
+# 󰤃 ╰ ╭
+
+# My custom font
+format = '''
+[ ╭ ](bold white)$directory in $git_branch $git_status via 
+[ ╰ ](bold white)'''
+
+# right_format = "[]$dat"
 
 [package]
 disabled = true
 
-[character]
-# name = '[symbol](color)'
+
 
