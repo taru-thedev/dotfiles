@@ -14,10 +14,10 @@ add_newline = false
 # 󰤃 ╰ ╭
 
 # My custom font
-right_format = "[](bold white)$os at $time on $shell"
-
 format = '''
-[ ╭ ](bold white)$directory in $git_branch$git_status via 
-[ ╰ ](bold white) $right_format'''
+[ ╭ ](bold white)$user $directory in $git_branch$git_status
+[ ╰ ](bold white) 
+'''
 
+right_format = "[](bold white)$os at $time on $shell"
 
