@@ -15,7 +15,7 @@ add_newline = false
 
 # My custom font
 format = '''
-[ ╭ ](bold white)$username $directory $git_branch $git_status $fill $right_promt
+[ ╭ ](bold white)$username $directory $git_branch $git_status
 [ ╰ ](bold white)
 '''
 
@@ -50,3 +50,32 @@ ignore_branches = []
 [git_status]
 format = '([\[$all_status$ahead_behind\]]($style) )'
 up_to_date = ""
+
+#[fill]
+#symbol = ''
+#style = "bold white"
+
+[os.symbols]
+Amazon = " "
+Android = " "
+Arch = " "
+CentOS = " "
+Debian = " "
+EndeavourOS = " "
+Fedora = " "
+Garuda = "󰛓 "
+Kali = " "
+Linux = " "
+Macos = " "
+NixOS = " "
+Pop = " "
+Raspbian = " "
+Redhat = " "
+RedHatEnterprise = " "
+Ubuntu = " "
+Unknown = " "
+Windows = "󰍲 "
+
+[os]
+format = "on [($name $symbol )]($style)"
+disabled = false
