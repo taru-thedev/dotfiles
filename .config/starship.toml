@@ -19,7 +19,7 @@ format = '''
 [ ╰ ](bold white)
 '''
 
-right_format = "$os at $time on $shell"
+right_format = "$os$time $shell"
 
 # Characters Configurations
 # --------------------------------------------------------
@@ -79,3 +79,9 @@ Windows = "󰍲 "
 [os]
 format = "on [($name $symbol )]($style)"
 disabled = false
+
+[time]
+format = "at [$time](style)"
+utc_time_offset = 'local'
+disabled = false
+
