@@ -2,9 +2,9 @@
 
 ## My Configs
 
-- *OS*: PopOS
-- *Terminal*: Kitty
-- *Prompt*: Custom using starship
+- **OS**: PopOS
+- **Terminal**: Kitty
+- **Prompt**: Custom using starship
 
 ## Previews
 
