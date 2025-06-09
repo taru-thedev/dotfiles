@@ -15,7 +15,7 @@ add_newline = false
 
 # My custom font
 format = '''
-[ ╭─────────────────](bold white)$username $directory $git_branch $git_status
+[ ╭───────── ](bold white)$username $directory $git_branch $git_status
 [ ╰➤ ](bold white)
 '''
 
