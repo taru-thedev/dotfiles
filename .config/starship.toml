@@ -9,14 +9,14 @@ add_newline = false
 
 # Using Nerd Font symbols with some curved arrow tools
 # https://emojicombos.com/curved-arrow
-# 
+#  ➤ ╭
 #  
 # 󰤃 ╰ ╭
 
 # My custom font
 format = '''
-[ ╭ ](bold white)$username $directory $git_branch $git_status
-[ ╰ ](bold white)
+[ ╭─────────────────](bold white)$username $directory $git_branch $git_status
+[ ╰➤](bold white)
 '''
 
 right_format = "$os$time $shell"
