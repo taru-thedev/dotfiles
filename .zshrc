@@ -22,5 +22,6 @@ SAVEHIST=50000
 alias ll='ls -la'
 alias dot='cd ~/dotfiles/'
 alias conf='cd ~/.config/'
+alias personal='cd ~/Documents/.importants-doc/'
 
 
