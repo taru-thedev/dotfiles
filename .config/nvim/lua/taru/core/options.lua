@@ -28,3 +28,5 @@ vim.opt.hlsearch = true
 
 vim.opt.splitright = true
 vim.opt.splitbelow = true
+
+vim.opt.clipboard:append("unnamedplus")
