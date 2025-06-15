@@ -20,3 +20,8 @@ vim.opt.inccommand = "split"
 vim.opt.ignorecase = true
 vim.opt.smartcase = true
 
+vim.opt.termguicolors = true
+vim.opt.background = "dark"
+vim.opt.scrolloff = 8
+vim.opt.signcolumn = "yes"
+
