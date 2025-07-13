@@ -19,7 +19,7 @@ format = '''
 [ ╰➤ ](bold white)
 '''
 
-right_format = "$os$time $shell"
+#right_format = "$os$time $shell"
 
 # Characters Configurations
 # --------------------------------------------------------
