@@ -8,7 +8,5 @@
 
 ## Previews
 
-### Terminal
-
-![terminal](./media/SS_2025-06-08.png)
+![preview](./media/20th_july.png)
 
