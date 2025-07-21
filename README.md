@@ -10,3 +10,10 @@
 
 ![preview](./media/20th_july.png)
 
+## Terminal Previews
+
+![terminal](./media/terminal_20th_July.png)
+
+## Bar Previews
+
+![polybar](./media/bar_20th_july.png)
