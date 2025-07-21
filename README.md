@@ -17,3 +17,7 @@
 ## Bar Previews
 
 ![polybar](./media/bar_20th_july.png)
+
+## Search Previews
+
+![default_search](./media/search_20th_july.png)
