@@ -5,6 +5,7 @@
 - **OS**: PopOS
 - **Terminal**: Kitty
 - **Prompt**: Custom using starship
+- **Bar**: Polybar
 
 ## Previews
 
