@@ -6,6 +6,7 @@
 - **Terminal**: Kitty
 - **Prompt**: Custom using starship
 - **Bar**: Polybar
+- **Search Bar**: PopOS default
 
 ## Previews
 
